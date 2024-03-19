@@ -56,16 +56,16 @@ nickname = member.getNickname();
 			</div>
 			<style>
 .custom-btn {
-	background-color: #54B435; /* 사용자 지정 배경색 */
-	border-color: #ffffff; /* 사용자 지정 테두리 색상 */
-	color: #ffffff; /* 사용자 지정 텍스트 색상 */
+	background-color: #54B435; /* 배경색 */
+	border-color: #ffffff; /* 테두리 색상 */
+	color: #ffffff; /* 텍스트 색상 */
 	font-weight: bolder;
 }
 
 .custom-btn:hover {
-	background-color: #ffffff; /* 사용자 지정 배경색 (마우스 호버 시) */
-	border-color: #379237; /* 사용자 지정 테두리 색상 (마우스 호버 시) */
-	color: #379237; /* 사용자 지정 텍스트 색상 (마우스 호버 시) */
+	background-color: #ffffff; /* 배경색 (마우스 호버 시) */
+	border-color: #379237; /* 테두리 색상 (마우스 호버 시) */
+	color: #379237; /* 텍스트 색상 (마우스 호버 시) */
 	font-weight: bolder;
 }
 </style>

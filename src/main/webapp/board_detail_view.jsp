@@ -84,9 +84,6 @@ content = content.replace(" ", "&nbsp;").replace("\n", "<br>");
 		
 		<button type="button" class="btn btn-secondary mb-3" value="취소"
 				onclick="history.back()">이전페이지</button>
-<%-- 		<button type="submit" class="btn btn-warning mb-3"
-							onClick='location.href=
-					    "board_write.jsp?num=<%=num%>"'>수정</button> --%>
 	</form>
 
        

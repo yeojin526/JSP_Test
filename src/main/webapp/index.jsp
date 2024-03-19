@@ -35,7 +35,6 @@
 						<li class="nav-item"><a class="nav-link" href="board_list_view.jsp">커뮤니티 게시판</a></li>
 						<li class="nav-item"><a class="nav-link" href="joinForm.jsp">회원가입</a></li>
 						<li class="nav-item"><a class="nav-link" href="loginForm.jsp">로그인</a></li>
-<!-- 						<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li> -->
 						<li class="nav-item"><a class="nav-link" href="admin_loginForm.jsp">관리자 페이지</a></li>
 
 
@@ -46,7 +45,7 @@
 		<!-- Header-->
 		<style>
 .custom-header {
-	background-color: #54B435; /* 원하는 배경색 코드 */
+	background-color: #54B435; /* 배경색 */
 }
 </style>
 		<header class="custom-header py-5">
@@ -64,16 +63,16 @@
 								
 								<style>
     .custom-btn {
-        background-color: #54B435; /* 사용자 지정 배경색 */
-        border-color: #ffffff; /* 사용자 지정 테두리 색상 */
-        color: #ffffff; /* 사용자 지정 텍스트 색상 */
+        background-color: #54B435; /* 배경색 */
+        border-color: #ffffff; /* 테두리 색상 */
+        color: #ffffff; /* 텍스트 색상 */
         font-weight: bolder;
         
     }
     .custom-btn:hover {
-        background-color: #F0FF42; /* 사용자 지정 배경색 (마우스 호버 시) */
-        border-color: #379237; /* 사용자 지정 테두리 색상 (마우스 호버 시) */
-        color: #379237; /* 사용자 지정 텍스트 색상 (마우스 호버 시) */
+        background-color: #F0FF42; /* 배경색 (마우스 호버 시) */
+        border-color: #379237; /* 테두리 색상 (마우스 호버 시) */
+        color: #379237; /* 텍스트 색상 (마우스 호버 시) */
         font-weight: bolder;
     }
 </style>
